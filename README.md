@@ -1,10 +1,6 @@
-# CollectionBuilder-CSV
+# Yellow Balloon
 
-CollectionBuilder-CSV is a robust and flexible "stand alone" template for creating digital collection and exhibit websites using Jekyll and a metadata CSV.
-Driven by your collection metadata, the template generates engaging visualizations to browse and explore your objects.
-The resulting static site can be hosted on any basic web server (or built automatically using GitHub Actions).
-
-Visit the [CollectionBuilder Docs](https://collectionbuilder.github.io/cb-docs/) for step-by-step details for getting started and building collections!
+The images and comments in this collection reflect the sense of place of McGregor and Marquette, Iowa. Volunteers shared images through an online interface that reflect the qualities, experiences and special places that define their sense of place. These contributions, collectively, help others situate design proposals within the context of local values.
 
 ## Brief Overview of Building a Collection
 
